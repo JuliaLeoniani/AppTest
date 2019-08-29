@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppTest</string>
+    <string name="calculadora">Calculadora</string>
+    <string name="insira_o_primeiro_numero">Insira o primeiro número</string>
+    <string name="insira_o_segundo_numero">Insira o segundo numero</string>
+    <string name="somar">Somar</string>
+    <string name="resultado">Resultado</string>
+    <string name="resultado_resp">resultado</string>
+</resources>
